@@ -4,23 +4,23 @@ Here we collect papers for RM4UAV.
 ## 2023
 
 - **Persistent coverage of UAVs based on deep reinforcement learning with wonderful life utility**  <br>
-[Neurocomputing] ()  　elsevier  <br> 
+[Neurocomputing] ()  　Elsevier  <br> 
 [PDF](https://doi.org/10.1016/j.neucom.2022.11.091) <br>
 
 
 - **Autonomous battery-changing system for UAV’s lifelong flight**  <br>
-[BIROB] ()  　elsevierr  <br> 
+[BIROB] ()  　Elsevierr  <br> 
 [PDF](https://doi.org/10.1016/j.birob.2023.100104) <br>
 
 
 - **Swarm UAV networking with collaborative beamforming and automated ESN learning in the presence of unknown blockages**  <br>
-[] ()  　  <br> 
+[Computer Networks] ()  　Elsevier  <br> 
 [PDF](https://doi.org/10.1016/j.comnet.2023.109804) <br>
 
 
-- **Heterogeneous Graph Neural Network-Based Software Developer Recommendation**  <br>
-[CollaborateCom] (ccf-c)  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-031-24383-7_24) <br>
+- **A deep multi-agent reinforcement learning framework for autonomous aerial navigation to grasping points on loads**  <br>
+[IAS] ()  Elsevier　  <br> 
+[PDF](https://doi.org/10.1016/j.robot.2023.104489) <br>
 
 
 
@@ -31,14 +31,14 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.robot.2021.103910) <br>
 
 
-- **An Overview of Source Code Static Analysis Method Based on Knowledge Graph**  <br>
-[IMCEC] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/10019850) <br>
+- **Autonomous power line detection and tracking system using UAVs**  <br>
+[MICPRO] ()  Elsevier　  <br> 
+[PDF](https://doi.org/10.1016/j.micpro.2022.104609) <br>
 
 
-- **A Software Failure Mode Analysis Method Based on Test Knowledge Graph**  <br>
-[DSA] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9914426) <br>
+- **A review of GNSS-independent UAV navigation techniques**  <br>
+[IAS] ()  　Elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.robot.2022.104069) <br>
 
 
 - **KGSecConfig: A Knowledge Graph Based Approach for Secured Container Orchestrator Configuration**  <br>
@@ -110,7 +110,7 @@ Here we collect papers for RM4UAV.
 ## 2021
 
 - **Marine locomotion: A tethered UAV-Buoy system with surge velocity control**  <br>
-[IAS] () elsevier  <br> 
+[IAS] () Elsevier  <br> 
 [PDF](https://doi.org/10.1016/j.robot.2021.103858) <br>
 
 
@@ -159,12 +159,12 @@ Here we collect papers for RM4UAV.
 
 
 - **Universal Adaptive Fault-Tolerant Control of a Multicopter UAV**  <br>
-[IFAC] ()  　elsevier <br> 
+[IFAC-PO] ()  　Elsevier <br> 
 [PDF](https://doi.org/10.1016/j.ifacol.2020.12.2390) <br>
 
 
 - **Robust Decentralized Switching Control of UAVs using UWB-based Localization and Cooperation**  <br>
-[IFAC] ()  　elsevier  <br> 
+[IFAC-PO] ()  　Elsevier  <br> 
 [PDF](https://doi.org/10.1016/j.ifacol.2020.12.1281) <br>
 
 
@@ -300,12 +300,12 @@ Here we collect papers for RM4UAV.
 ## 2018
 
 - **A Mission Coordinator Approach for a Fleet of UAVs in Urban Scenarios**  <br>
-[INAIR] ()  　IEEE  <br> 
+[INAIR] ()  　Elsevier  <br> 
 [PDF](https://doi.org/10.1016/j.trpro.2018.12.018) <br>
 
 
 - **Force control design for a robot manipulator attached to a UAV**  <br>
-[IFAC] ()  　elsevier  <br> 
+[IFAC-PO] ()  　Elsevier  <br> 
 [PDF](https://doi.org/10.1016/j.ifacol.2018.11.268) <br>
 
 
@@ -323,7 +323,7 @@ Here we collect papers for RM4UAV.
 ## 2017
 
 - **Robust nonlinear control approach to nontrivial maneuvers and obstacle avoidance for quadrotor UAV under disturbances**  <br>
-[IAS] ()  　elsevier  <br> 
+[IAS] ()  　Elsevier  <br> 
 [PDF](https://doi.org/10.1016/j.robot.2017.08.011) <br>
 
 
@@ -404,3 +404,6 @@ Here we collect papers for RM4UAV.
 
 ## 2013
 
+- **An Open-Source Hardware/Software Architecture for Quadrotor UAVs**  <br>
+[IFAC-PO] ()  　Elsevier  <br> 
+[PDF](https://doi.org/10.3182/20131120-3-FR-4045.00006) <br>
