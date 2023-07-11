@@ -22,7 +22,9 @@ Here we collect papers for RM4UAV.
 [IAS] ()  Elsevier　  <br> 
 [PDF](https://doi.org/10.1016/j.robot.2023.104489) <br>
 
-
+- **Short-range air combat maneuver decision of UAV swarm based on multi-agent Transformer introducing virtual objects**  <br>
+[] ()  　Elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.engappai.2023.106358) <br>
 
 ## 2022
 
@@ -114,29 +116,29 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.robot.2021.103858) <br>
 
 
-- **Knowledge-Oriented Graph-Based Approach to Capture the Evolution of Developers’ Knowledge**  <br>
-[IEEE BigData] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9529714) <br>
+- **Design, Sensing, and Control of a Novel UAV Platform for Aerial Drilling and Screwing**  <br>
+[ RA-L ] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/LRA.2021.3062305) <br>
 
 
-- **Test Case Reuse Based on Software Testing Knowledge Graph and Collaborative Filtering Recommendation Algorithm**  <br>
-[QRS-C] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9742010) <br>
+- **Emulating UAV Motion by Utilizing Robotic Arm for mmWave Wireless Channel Characterization**  <br>
+[RA-L] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/TAP.2021.3069484) <br>
 
 
-- **AutoKG - An Automotive Domain Knowledge Graph for Software Testing: A position paper**  <br>
-[ICSTW] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9440180) <br>
+- **Modeling and Control of a Quadrotor UAV Equipped With a Flexible Arm in Vertical Plane**  <br>
+[ IEEE Access] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ACCESS.2021.3095536) <br>
 
 
-- **Fault Localization based on Knowledge Graph in Software-Defined Optical Networks**  <br>
-[Journal of Lightwave Technology] (JCR_Q1)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9399234) <br>
+- **Design and Feasibility Analysis of a Foldable Robot Arm for Drones Using a Twisted String Actuator: FRAD-TSA**  <br>
+[RA-L] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/LRA.2021.3084890) <br>
 
 
-- **SoMeSci- A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles**  <br>
-[CIKM] (ccf-a)  　ACM  <br> 
-[PDF](https://dl.acm.org/doi/10.1145/3459637.3482017) <br>
+- **Mobile Manipulator for Autonomous Localization, Grasping and Precise Placement of Construction Material in a Semi-Structured Environment**  <br>
+[RA-L] ()  　IEEE <br> 
+[PDF](https://doi.org/10.1109/LRA.2021.3061377) <br>
 
 
 - **Construction and application of knowledge graph of domestic operating system testing**  <br>
@@ -168,9 +170,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.ifacol.2020.12.1281) <br>
 
 
-- **SoftKG: Building A Software Development Knowledge Graph through Wikipedia Taxonomy**  <br>
-[SERVICES] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9284194) <br>
+- **Controlling of an Under-Actuated Quadrotor UAV Equipped With a Manipulator**  <br>
+[ IEEE Access] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ACCESS.2020.2974581) <br>
 
 
 - **Construction of a Cloud Scenario Knowledge Graph for Cloud Service Market**  <br>
@@ -236,9 +238,9 @@ Here we collect papers for RM4UAV.
 
 ## 2019
 
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
+- **Model-Based Motion Control of a Robotic Manipulator With a Flying Multirotor Base**  <br>
+[IEEE/ASME Transactions on Mechatronics] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/TMECH.2019.2936760) <br>
 
 
 - **A Knowledge Graph Framework for Software-Defined Industrial Cyber-Physical Systems**  <br>
@@ -309,9 +311,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.ifacol.2018.11.268) <br>
 
 
-- **Exploring Enterprise Knowledge Graphs: A Use Case in Software Engineering**  <br>
-[ESWC] (ccf-c)  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_36) <br>
+- **A Stabilizing Controller for Regulation of UAV With Manipulator**  <br>
+[RA-L] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
 - **Improving API Caveats Accessibility by Mining API Caveats Knowledge Graph**  <br>
@@ -365,9 +367,9 @@ Here we collect papers for RM4UAV.
 
 ## 2016
 
-- **Graph-based software knowledge: Storage and semantic querying of domain models for run-time adaptation**  <br>
-[SIMPAR] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/7862379) <br>
+- **Compliant Aerial Manipulators: Toward a New Generation of Aerial Robotic Workers**  <br>
+[RA-L] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/LRA.2016.2519948) <br>
 
 
 - **Enhancing UML Class Diagram Abstraction with Knowledge Graph**  <br>
