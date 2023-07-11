@@ -3,9 +3,9 @@ Here we collect papers for RM4UAV.
 
 ## 2023
 
-- **Representing Technical Standards as Knowledge Graph to Guide the Design of Industrial Systems**  <br>
-[EUROCAST] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-031-25312-6_71) <br>
+- **Persistent coverage of UAVs based on deep reinforcement learning with wonderful life utility**  <br>
+[Neurocomputing] ()  　elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.neucom.2022.11.091) <br>
 
 
 - **Generating Network Security Defense Strategy Based on Cyber Threat Intelligence Knowledge Graph**  <br>
@@ -26,9 +26,9 @@ Here we collect papers for RM4UAV.
 
 ## 2022
 
-- **STDE: A Single-Senior-Teacher Knowledge Distillation Model for High-Dimensional Knowledge Graph Embeddings**  <br>
-[ICICSE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9828905) <br>
+- **Backstepping control for a UAV-manipulator tuned by Cuckoo Search algorithm**  <br>
+[IAS]()  　elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.robot.2021.103910) <br>
 
 
 - **An Overview of Source Code Static Analysis Method Based on Knowledge Graph**  <br>
@@ -159,13 +159,13 @@ Here we collect papers for RM4UAV.
 
 
 - **Universal Adaptive Fault-Tolerant Control of a Multicopter UAV**  <br>
-[IFAC] (ccf-c)  　elsevier <br> 
+[IFAC] ()  　elsevier <br> 
 [PDF](https://doi.org/10.1016/j.ifacol.2020.12.2390) <br>
 
 
-- **How to Construct Software Knowledge Graph: A Case Study**  <br>
-[SERVICES] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9284189) <br>
+- **Robust Decentralized Switching Control of UAVs using UWB-based Localization and Cooperation**  <br>
+[IFAC] ()  　elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.ifacol.2020.12.1281) <br>
 
 
 - **SoftKG: Building A Software Development Knowledge Graph through Wikipedia Taxonomy**  <br>
@@ -299,14 +299,14 @@ Here we collect papers for RM4UAV.
 
 ## 2018
 
-- **DeepWeak: Reasoning common software weaknesses via knowledge graph embedding**  <br>
-[SANER] (ccf-b)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/8330232) <br>
+- **A Mission Coordinator Approach for a Fleet of UAVs in Urban Scenarios**  <br>
+[INAIR] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1016/j.trpro.2018.12.018) <br>
 
 
-- **Intelligent bug fixing with software bug knowledge graph**  <br>
-[ESEC/FSE] ()  　ACM  <br> 
-[PDF](https://dl.acm.org/doi/10.1145/3236024.3275428) <br>
+- **Force control design for a robot manipulator attached to a UAV**  <br>
+[IFAC] ()  　elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.ifacol.2018.11.268) <br>
 
 
 - **Exploring Enterprise Knowledge Graphs: A Use Case in Software Engineering**  <br>
@@ -322,9 +322,9 @@ Here we collect papers for RM4UAV.
 
 ## 2017
 
-- **Specifying architecture of knowledge graph with data graph, information graph, knowledge graph and wisdom graph**  <br>
-[SERA] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7965747) <br>
+- **Robust nonlinear control approach to nontrivial maneuvers and obstacle avoidance for quadrotor UAV under disturbances**  <br>
+[IAS] ()  　elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.robot.2017.08.011) <br>
 
 
 - **Construct Bug Knowledge Graph for Bug Resolution**  <br>
