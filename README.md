@@ -158,9 +158,9 @@ Here we collect papers for RM4UAV.
 ## 2020
 
 
-- **Construction of Knowledge Graph For Internal Control of Financial Enterprises**  <br>
-[QRS-C] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7965747) <br>
+- **Universal Adaptive Fault-Tolerant Control of a Multicopter UAV**  <br>
+[IFAC] (ccf-c)  　elsevier <br> 
+[PDF](https://doi.org/10.1016/j.ifacol.2020.12.2390) <br>
 
 
 - **How to Construct Software Knowledge Graph: A Case Study**  <br>
