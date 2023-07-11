@@ -43,9 +43,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.robot.2022.104069) <br>
 
 
-- **KGSecConfig: A Knowledge Graph Based Approach for Secured Container Orchestrator Configuration**  <br>
-[SANER] (ccf-b)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9825815) <br>
+- **Automatic Landing Control of a Multi-Rotor UAV Using a Monocular Camera**  <br>
+[JINT] ()  Springer　 <br> 
+[PDF](https://link.springer.com/article/10.1007/s10846-022-01655-8) <br>
 
 
 - **Creating Virtual Knowledge Graphs from Software-Internal Data**  <br>
@@ -141,14 +141,14 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/LRA.2021.3061377) <br>
 
 
-- **Construction and application of knowledge graph of domestic operating system testing**  <br>
-[CSSE] ()  　ACM  <br> 
-[PDF](https://dl.acm.org/doi/10.1145/3494885.3494933) <br>
+- **A Framework for Multi-UAV Persistent Search and Retrieval with Stochastic Target Appearance in a Continuous Space**  <br>
+[JINT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/article/10.1007/s10846-021-01484-1) <br>
 
 
-- **KG2Code: Correct Code Examples Mining Service Based on Knowledge Graph for Fixing API Misuses**  <br>
-[ICSOC] (ccf-b)  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_65) <br>
+- **Robust Adaptive Control for A Novel Fully-Actuated Octocopter UAV with Wind Disturbance**  <br>
+[JINT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/article/10.1007/s10846-021-01450-x) <br>
 
 
 - **The SLOGERT Framework for Automated Log Knowledge Graph Construction**  <br>
@@ -175,9 +175,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/ACCESS.2020.2974581) <br>
 
 
-- **Construction of a Cloud Scenario Knowledge Graph for Cloud Service Market**  <br>
-[ICSESS] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9237681) <br>
+- **Drone Reconfigurable Architecture (DRA): a Multipurpose Modular Architecture for Unmanned Aerial Vehicles (UAVs)**  <br>
+[JINT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/article/10.1007/s10846-019-01129-4) <br>
 
 
 - **An Invocation Chain Test and Evaluation Method Based on Knowledge Graph**  <br>
@@ -329,14 +329,14 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.robot.2017.08.011) <br>
 
 
-- **Construct Bug Knowledge Graph for Bug Resolution**  <br>
-[ICSE-Companion] (ccf-a)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/7965299) <br>
+- **Nonlinear Control with Swing Damping of a Multirotor UAV with Suspended Load**  <br>
+[JINT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/article/10.1007/s10846-017-0509-6) <br>
 
 
-- **On event-driven knowledge graph completion in digital factories**  <br>
-[BigData] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/8258105) <br>
+- **Dual Quaternion Modeling and Control of a Quad-rotor Aerial Manipulator**  <br>
+[JINT] ()  　Springer  <br> 
+[PDF(https://link.springer.com/article/10.1007/s10846-017-0519-4) <br>
 
 
 - **Processing Redundancy in UML Diagrams Based on Knowledge Graph**  <br>
@@ -393,6 +393,9 @@ Here we collect papers for RM4UAV.
 
 
 ## 2015
+- **System Design of a Novel Tilt-Roll Rotor Quadrotor UAV**  <br>
+[JINT] ()  Springer  <br> 
+[PDF](https://link.springer.com/article/10.1007/s10846-015-0301-4) <br>
 
 
 ## 2014
@@ -409,3 +412,8 @@ Here we collect papers for RM4UAV.
 - **An Open-Source Hardware/Software Architecture for Quadrotor UAVs**  <br>
 [IFAC-PO] ()  　Elsevier  <br> 
 [PDF](https://doi.org/10.3182/20131120-3-FR-4045.00006) <br>
+
+
+- **Design and Control of a Hyper-Redundant Manipulator for Mobile Manipulating Unmanned Aerial Vehicles**  <br>
+[JINT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/article/10.1007/s10846-013-9935-2) <br>
