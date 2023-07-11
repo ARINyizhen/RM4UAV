@@ -8,14 +8,14 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.neucom.2022.11.091) <br>
 
 
-- **Generating Network Security Defense Strategy Based on Cyber Threat Intelligence Knowledge Graph**  <br>
-[ICENAT] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-981-19-9697-9_41) <br>
+- **Autonomous battery-changing system for UAV’s lifelong flight**  <br>
+[BIROB] ()  　elsevierr  <br> 
+[PDF](https://doi.org/10.1016/j.birob.2023.100104) <br>
 
 
-- **Detection of SDN Flow Rule Conflicts Based on Knowledge Graph**  <br>
-[ICENAT] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-981-19-9697-9_8) <br>
+- **Swarm UAV networking with collaborative beamforming and automated ESN learning in the presence of unknown blockages**  <br>
+[] ()  　  <br> 
+[PDF](https://doi.org/10.1016/j.comnet.2023.109804) <br>
 
 
 - **Heterogeneous Graph Neural Network-Based Software Developer Recommendation**  <br>
@@ -109,9 +109,9 @@ Here we collect papers for RM4UAV.
 
 ## 2021
 
-- **DockerGen: A Knowledge Graph based Approach for Software Containerization**  <br>
-[COMPSAC] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9529714) <br>
+- **Marine locomotion: A tethered UAV-Buoy system with surge velocity control**  <br>
+[IAS] () elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.robot.2021.103858) <br>
 
 
 - **Knowledge-Oriented Graph-Based Approach to Capture the Evolution of Developers’ Knowledge**  <br>
