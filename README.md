@@ -28,6 +28,12 @@ Here we collect papers for RM4UAV.
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-27099-4_6) <br>
 
 
+- **Modeling and Simulation of an Octorotor UAV with Manipulator Arm**  <br>
+[Drones] ()  MDPI　  <br> 
+[PDF](https://doi.org/10.3390/drones7030168) <br>
+
+
+
 
 ## 2022
 
@@ -221,9 +227,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/INDIANCC.2019.8715556) <br>
 
 
-- **OKG-Soft: An Open Knowledge Graph with Machine Readable Scientific Software Metadata**  <br>
-[e-Science] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9041835) <br>
+- **Autonomous Vision-Based Aerial Grasping for Rotorcraft Unmanned Aerial Vehicles**  <br>
+[Sensors] ()  　MDPI  <br> 
+[PDF](https://doi.org/10.3390/s19153410) <br>
 
 
 - **Service Application Knowledge Graph and Dependency System**  <br>
@@ -310,14 +316,13 @@ Here we collect papers for RM4UAV.
 
 
 - **The Dynamics Aspects of Modeling and Control of the Flying Robot with Attached Two Degree of Freedom Manipulator**  <br>
-  [] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-319-78963-7_57) <br>
+  [Aerospace Robotics III] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-94517-0_8) <br>
 
 
 - **Design and Optimization of a Multi-drone Robot for Grasping and Manipulation of Large Size Objects**  <br>
   [ROMANSY 22 – Robot Design, Dynamics and Control] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-319-94517-0_8) <br>
-
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-78963-7_57) <br>
 
 
 ## 2017
