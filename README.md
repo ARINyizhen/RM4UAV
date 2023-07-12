@@ -3,11 +3,6 @@ Here we collect papers for RM4UAV.
 
 ## 2023
 
-- **Persistent coverage of UAVs based on deep reinforcement learning with wonderful life utility**  <br>
-[Neurocomputing] ()  　Elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.neucom.2022.11.091) <br>
-
-
 - **Autonomous battery-changing system for UAV’s lifelong flight**  <br>
 [BIROB] ()  　Elsevierr  <br> 
 [PDF](https://doi.org/10.1016/j.birob.2023.100104) <br>
@@ -27,26 +22,6 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.engappai.2023.106358) <br>
 
 ## 2022
-
-- **Backstepping control for a UAV-manipulator tuned by Cuckoo Search algorithm**  <br>
-[IAS]()  　elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.robot.2021.103910) <br>
-
-
-- **Autonomous power line detection and tracking system using UAVs**  <br>
-[MICPRO] ()  Elsevier　  <br> 
-[PDF](https://doi.org/10.1016/j.micpro.2022.104609) <br>
-
-
-- **A review of GNSS-independent UAV navigation techniques**  <br>
-[IAS] ()  　Elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.robot.2022.104069) <br>
-
-
-- **Automatic Landing Control of a Multi-Rotor UAV Using a Monocular Camera**  <br>
-[JINT] ()  Springer　 <br> 
-[PDF](https://link.springer.com/article/10.1007/s10846-022-01655-8) <br>
-
 
 - **Creating Virtual Knowledge Graphs from Software-Internal Data**  <br>
 [IES] ()  　IEEE  <br> 
