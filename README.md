@@ -158,14 +158,14 @@ Here we collect papers for RM4UAV.
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-55789-8_11) <br>
 
 
-- **A survey based on knowledge graph in fault diagnosis, analysis and prediction: key technologies and challenges**  <br>
-[ICAICE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9361060) <br>
+- **Design of an Active-Reliable Grasping Mechanism for Autonomous Unmanned Aerial Vehicles**  <br>
+[International Conference on Modelling and Simulation for Autonomous Systems] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-43890-6_13) <br>
 
 
-- **Exploiting Code Knowledge Graph for Bug Localization via Bi-directional Attention**  <br>
-[ICPC] (ccf-b)  　ACM  <br> 
-[PDF](https://dl.acm.org/doi/10.1145/3387904.3389281) <br>
+- **Optimization and Design of a Gripper Mechanism for Autonomous Unmanned Aerial Vehicle Perching**  <br>
+ [USCToMM Symposium on Mechanical Systems and Robotics] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-43929-3_15) <br>
 
 
 - **Crowdsourced requirements generation for automatic testing via knowledge graph**  <br>
@@ -310,8 +310,14 @@ Here we collect papers for RM4UAV.
 
 
 - **The Dynamics Aspects of Modeling and Control of the Flying Robot with Attached Two Degree of Freedom Manipulator**  <br>
-  [Aerospace Robotics III ] ()  　Springer  <br> 
+  [] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-78963-7_57) <br>
+
+
+- **Design and Optimization of a Multi-drone Robot for Grasping and Manipulation of Large Size Objects**  <br>
+  [ROMANSY 22 – Robot Design, Dynamics and Control] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-94517-0_8) <br>
+
 
 
 ## 2017
