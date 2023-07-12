@@ -48,19 +48,19 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/ANZCC56036.2022.9966861) <br>
 
 
-- **Research on Construction Method of SoS Architecture Knowledge Graph**  <br>
-[KSS] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-981-19-3610-4_12) <br>
+- **Lightweight Foldable Robotic Arm for Drones**  <br>
+[IETC] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/IETC54973.2022.9796899) <br>
 
 
-- **基于软件知识图谱的代码语义标签自动生成方法**  <br>
-[软件学报] (ccf-a)  　CNKI  <br> 
-[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UCr-lirV_EFPh8cIT_RjbimIuz5ucf9gY8wUTciy3EIk&uniplatform=NZKPT) <br>
+- **Design and Experiment of a Sloth-inspired UAV Perching Climbing Grasping Mechanism**  <br>
+[ROBIO] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ROBIO55434.2022.10012005) <br>
 
 
-- **软件安全漏洞知识图谱构建方法**  <br>
-[计算机工程与设计] (ccf-c)  　CNKI  <br> 
-[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XcbPmNjLW75WuII5fwEDCCqz2YF1jCKGSemLG8w52AAN&uniplatform=NZKPT) <br>
+- **Force Control of a Foldable Robot Arm in a Drone for a Solar Panel Cleaning Task**  <br>
+[ICCAS] ()  　  <br> 
+[PDF](https://doi.org/10.23919/ICCAS55662.2022.10003737) <br>
 
 
 - **基于知识图谱的测试用例复用方法**  <br>
@@ -140,9 +140,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.eng.2019.11.003) <br>
 
 
-- **Robust Decentralized Switching Control of UAVs using UWB-based Localization and Cooperation**  <br>
-[IFAC-PO] ()  　Elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.ifacol.2020.12.1281) <br>
+- **Omni-Drone: on the Design of a Novel Aerial Manipulator with Omni-directional Workspacen**  <br>
+[UR] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/UR49135.2020.9144837) <br>
 
 
 - **Controlling of an Under-Actuated Quadrotor UAV Equipped With a Manipulator**  <br>
