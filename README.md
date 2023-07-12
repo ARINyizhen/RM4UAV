@@ -74,11 +74,6 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/AIRPHARO52252.2021.9571040) <br>
 
 
-- **Design, Sensing, and Control of a Novel UAV Platform for Aerial Drilling and Screwing**  <br>
-[ RA-L ] ()  　IEEE  <br> 
-[PDF](https://doi.org/10.1109/LRA.2021.3062305) <br>
-
-
 - **Emulating UAV Motion by Utilizing Robotic Arm for mmWave Wireless Channel Characterization**  <br>
 [RA-L] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/TAP.2021.3069484) <br>
