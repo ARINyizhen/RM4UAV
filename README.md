@@ -3,9 +3,9 @@ Here we collect papers for RM4UAV.
 
 ## 2023
 
-- **Autonomous battery-changing system for UAV’s lifelong flight**  <br>
-[BIROB] ()  　Elsevierr  <br> 
-[PDF](https://doi.org/10.1016/j.birob.2023.100104) <br>
+- **Saturated Control With Variable Prescribed Performance Applied to the Manipulator of UAV**  <br>
+[IEEE Journal on Miniaturization for Air and Space Systems] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/JMASS.2023.3257177) <br>
 
 
 - **Swarm UAV networking with collaborative beamforming and automated ESN learning in the presence of unknown blockages**  <br>
@@ -38,14 +38,14 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.isatra.2021.07.038) <br>
 
 
-- **A Software Security Entity Relationships Prediction Framework Based on Knowledge Graph Embedding Using Sentence-Bert**  <br>
-[WASA] (ccf-c)  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19214-2_42) <br>
+- Development of an Autonomous UAV Integrated with a Manipulator and a Soft Gripper**  <br>
+[ASCC] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.23919/ASCC56756.2022.9828332) <br>
 
 
-- **Upgrade SecSLA Using Security as a Service Based on Knowledge Graph**  <br>
-[FTC] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-031-18458-1_33) <br>
+- **Attitude Control of UAV with Manipulator Using Adaptive PID**  <br>
+[ANZCC] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ANZCC56036.2022.9966861) <br>
 
 
 - **Research on Construction Method of SoS Architecture Knowledge Graph**  <br>
@@ -86,9 +86,9 @@ Here we collect papers for RM4UAV.
 
 ## 2021
 
-- **Marine locomotion: A tethered UAV-Buoy system with surge velocity control**  <br>
-[IAS] () Elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.robot.2021.103858) <br>
+- **Adaptively Leveling a UAV with Three-arm Aerial Manipulator System on Shifting Ground**  <br>
+[AIRPHARO] () IEEE  <br> 
+[PDF](https://doi.org/10.1109/AIRPHARO52252.2021.9571040) <br>
 
 
 - **Design, Sensing, and Control of a Novel UAV Platform for Aerial Drilling and Screwing**  <br>
@@ -116,9 +116,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/LRA.2021.3061377) <br>
 
 
-- **A Framework for Multi-UAV Persistent Search and Retrieval with Stochastic Target Appearance in a Continuous Space**  <br>
-[JINT] ()  　Springer  <br> 
-[PDF](https://link.springer.com/article/10.1007/s10846-021-01484-1) <br>
+- **Intelligent Explosive Ordnance Disposal UAV System Based on Manipulator and Real-Time Object Detection**  <br>
+[IRCE] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/IRCE53649.2021.9570974) <br>
 
 
 - **Robust Adaptive Control for A Novel Fully-Actuated Octocopter UAV with Wind Disturbance**  <br>
@@ -213,14 +213,14 @@ Here we collect papers for RM4UAV.
 
 ## 2019
 
-- **Model-Based Motion Control of a Robotic Manipulator With a Flying Multirotor Base**  <br>
-[IEEE/ASME Transactions on Mechatronics] ()  　IEEE  <br> 
-[PDF](https://doi.org/10.1109/TMECH.2019.2936760) <br>
+- **Development of light weight 3DOF manipulator on UAV system for infrastructure inspection**  <br>
+[MHS] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/MHS.2018.8887038) <br>
 
 
-- **A Knowledge Graph Framework for Software-Defined Industrial Cyber-Physical Systems**  <br>
-[SmartCloud] (IES)　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/8927285) <br>
+- **Modeling and Control of a UAV Manipulator**  <br>
+[ICC] ()　IEEE  <br> 
+[PDF](https://doi.org/10.1109/INDIANCC.2019.8715556) <br>
 
 
 - **OKG-Soft: An Open Knowledge Graph with Machine Readable Scientific Software Metadata**  <br>
@@ -296,6 +296,20 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
+- **Design of Aerial Manipulator Suitable for a UAV with Two Passive Rotating Hemispherical Shells**  <br>
+[SSRR] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/SSRR.2018.8468654) <br>
+
+
+- **Design and research of UAV autonomous grasping system**  <br>
+[ICUS] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ICUS.2017.8278328) <br>
+
+
+- **A Stabilizing Controller for Regulation of UAV With Manipulator**  <br>
+[RA-L] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
+
 
 ## 2017
 
@@ -309,19 +323,19 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/ICUAS.2017.7991357) <br>
 
 
-- **Dual Quaternion Modeling and Control of a Quad-rotor Aerial Manipulator**  <br>
-[JINT] ()  　Springer  <br> 
-[PDF(https://link.springer.com/article/10.1007/s10846-017-0519-4) <br>
+- **Teleoperation of a UAV by a 6-DOF parallel manipulator with hybrid mapping for inspection of industrial structures**  <br>
+[ICCAS] ()  　IEEE  <br> 
+[PDF(https://doi.org/10.23919/ICCAS.2017.8204350) <br>
 
 
-- **Processing Redundancy in UML Diagrams Based on Knowledge Graph**  <br>
-[PAAP] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-981-10-6442-5_39) <br>
+- **Stable under-actuated manipulator design for mobile manipulating Unmanned Aerial Vehicle (MM-UAV)**  <br>
+[ICMSAO] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ICMSAO.2017.7934879) <br>
 
 
-- **Entity Set Expansion with Meta Path in Knowledge Graph**  <br>
-[PAKDD] (ccf-c)  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-319-57454-7_25) <br>
+- **Dynamics and control of an Unmanned Aerial Vehicle employing a delta-manipulator**  <br>
+[MED] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/MED.2017.7984282) <br>
 
 
 - **A Pay as You Use Resource Security Provision Approach Based on Data Graph, Information Graph and Knowledge Graph**  <br>
@@ -347,9 +361,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/MED.2016.7535922) <br>
 
 
-- **Enhancing UML Class Diagram Abstraction with Knowledge Graph**  <br>
-[IDEAL] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46257-8_65) <br>
+- **Mechatronic design of a robotic manipulator for Unmanned Aerial Vehicles**  <br>
+[IROS] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/IROS.2016.7759711) <br>
 
 
 - **TechLand: Assisting technology landscape inquiries with insights from stack overflow**  <br>
@@ -372,18 +386,22 @@ Here we collect papers for RM4UAV.
 [ICRA] ()  IEEE  <br> 
 [PDF](https://doi.org/10.1109/ICRA.2015.7139760) <br>
 
+- **A parallel manipulator for mobile manipulating UAVs**  <br>
+[TePRA] ()  IEEE  <br> 
+[PDF](https://doi.org/10.1109/TePRA.2015.7219682) <br>
+
 
 ## 2014
-
-
 - **Adaptive control for UAVs equipped with a robotic arm**  <br>
 [IFAC-PO] ()  　Elsevier  <br> 
 [PDF](https://doi.org/10.3182/20140824-6-ZA-1003.00790) <br>
 
+- **UAV equipped with a robotic manipulator**  <br>
+[MED] ()  　IEEE <br> 
+[PDF](https://doi.org/10.1109/MED.2014.6961535) <br>
 
 
 ## 2013
-
 - **Control of quadrotor aerial vehicles equipped with a robotic arm**  <br>
 [MED] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/MED.2013.6608869) <br>
@@ -392,3 +410,13 @@ Here we collect papers for RM4UAV.
 - **Design and Control of a Hyper-Redundant Manipulator for Mobile Manipulating Unmanned Aerial Vehicles**  <br>
 [JINT] ()  　Springer  <br> 
 [PDF](https://link.springer.com/article/10.1007/s10846-013-9935-2) <br>
+
+
+- **Interaction control of an UAV endowed with a manipulator**  <br>
+[ICRA] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ICRA.2013.6631278) <br>
+
+
+- **Visual coordinated landing of a UAV on a mobile robot manipulator**  <br>
+[SSRR] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/SSRR.2013.6719338) <br>
