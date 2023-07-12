@@ -8,18 +8,26 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/JMASS.2023.3257177) <br>
 
 
-- **Swarm UAV networking with collaborative beamforming and automated ESN learning in the presence of unknown blockages**  <br>
-[Computer Networks] ()  　Elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.comnet.2023.109804) <br>
-
-
 - **A deep multi-agent reinforcement learning framework for autonomous aerial navigation to grasping points on loads**  <br>
 [IAS] ()  Elsevier　  <br> 
 [PDF](https://doi.org/10.1016/j.robot.2023.104489) <br>
 
-- **Short-range air combat maneuver decision of UAV swarm based on multi-agent Transformer introducing virtual objects**  <br>
-[] ()  　Elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.engappai.2023.106358) <br>
+
+- **Design and Experiment of a Sloth-inspired UAV Perching Climbing Grasping Mechanism**  <br>
+[ROBIO] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ROBIO55434.2022.10012005) <br>
+
+
+- **Force Control of a Foldable Robot Arm in a Drone for a Solar Panel Cleaning Task**  <br>
+[ICCAS] ()  IEEE　  <br> 
+[PDF](https://doi.org/10.23919/ICCAS55662.2022.10003737) <br>
+
+
+- **Pre-production Design of a Robotic Arm Mounted on an Unmanned Aerial Vehicle (UAV)**  <br>
+[International Conference on Computing, Intelligence and Data Analytics] ()  Springer　  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-27099-4_6) <br>
+
+
 
 ## 2022
 
@@ -51,16 +59,6 @@ Here we collect papers for RM4UAV.
 - **Lightweight Foldable Robotic Arm for Drones**  <br>
 [IETC] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/IETC54973.2022.9796899) <br>
-
-
-- **Design and Experiment of a Sloth-inspired UAV Perching Climbing Grasping Mechanism**  <br>
-[ROBIO] ()  　IEEE  <br> 
-[PDF](https://doi.org/10.1109/ROBIO55434.2022.10012005) <br>
-
-
-- **Force Control of a Foldable Robot Arm in a Drone for a Solar Panel Cleaning Task**  <br>
-[ICCAS] ()  　  <br> 
-[PDF](https://doi.org/10.23919/ICCAS55662.2022.10003737) <br>
 
 
 - **基于知识图谱的测试用例复用方法**  <br>
@@ -150,14 +148,14 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/ACCESS.2020.2974581) <br>
 
 
-- **Drone Reconfigurable Architecture (DRA): a Multipurpose Modular Architecture for Unmanned Aerial Vehicles (UAVs)**  <br>
-[JINT] ()  　Springer  <br> 
-[PDF](https://link.springer.com/article/10.1007/s10846-019-01129-4) <br>
+- **Mathematical Modeling of Stable Position of Manipulator Mounted on Unmanned Aerial Vehicle**  <br>
+[Proceedings of 15th International Conference on Electromechanics and Robotics "Zavalishin's Readings"] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-15-5580-0_12) <br>
 
 
-- **An Invocation Chain Test and Evaluation Method Based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
+- **Construction and Control Aerial Manipulator Robot**  <br>
+[International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-55789-8_11) <br>
 
 
 - **A survey based on knowledge graph in fault diagnosis, analysis and prediction: key technologies and challenges**  <br>
@@ -311,6 +309,11 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
+- **The Dynamics Aspects of Modeling and Control of the Flying Robot with Attached Two Degree of Freedom Manipulator**  <br>
+  [Aerospace Robotics III ] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-94517-0_8) <br>
+
+
 ## 2017
 
 - **Detection, Location and Grasping Objects Using a Stereo Sensor on UAV in Outdoor Environments**  <br>
@@ -391,6 +394,11 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/TePRA.2015.7219682) <br>
 
 
+- **Deployable Manipulator Technology with Application for UAVs**  <br>
+[Aerospace Robotics II] ()  Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-13853-4_9) <br>
+
+
 ## 2014
 - **Adaptive control for UAVs equipped with a robotic arm**  <br>
 [IFAC-PO] ()  　Elsevier  <br> 
@@ -420,3 +428,9 @@ Here we collect papers for RM4UAV.
 - **Visual coordinated landing of a UAV on a mobile robot manipulator**  <br>
 [SSRR] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/SSRR.2013.6719338) <br>
+
+
+- **The Dynamics Influence of the Attached Manipulator on Unmanned Aerial Vehicle**  <br>
+[Aerospace Robotics] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-642-34020-8_9) <br>
+
