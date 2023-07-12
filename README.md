@@ -33,9 +33,9 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.ifacol.2022.04.001) <br>
 
 
-- **Incremental Analysis of Legacy Applications Using Knowledge Graphs for Application Modernization**  <br>
-[CODS-COMAD] ()  　ACM  <br> 
-[PDF](https://dl.acm.org/doi/10.1145/3493700.3493735) <br>
+- **Gliding grasping analysis and hybrid force/position control for unmanned aerial manipulator system**  <br>
+[ISA] ()  　Elsevier <br> 
+[PDF](https://doi.org/10.1016/j.isatra.2021.07.038) <br>
 
 
 - **A Software Security Entity Relationships Prediction Framework Based on Knowledge Graph Embedding Using Sentence-Bert**  <br>
@@ -135,9 +135,9 @@ Here we collect papers for RM4UAV.
 ## 2020
 
 
-- **Universal Adaptive Fault-Tolerant Control of a Multicopter UAV**  <br>
-[IFAC-PO] ()  　Elsevier <br> 
-[PDF](https://doi.org/10.1016/j.ifacol.2020.12.2390) <br>
+- **Grasp Planning and Visual Servoing for an Outdoors Aerial Dual Manipulator**  <br>
+[Engineering] ()  　Elsevier <br> 
+[PDF](https://doi.org/10.1016/j.eng.2019.11.003) <br>
 
 
 - **Robust Decentralized Switching Control of UAVs using UWB-based Localization and Cooperation**  <br>
@@ -291,22 +291,22 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
-- **Improving API Caveats Accessibility by Mining API Caveats Knowledge Graph**  <br>
-[CSME] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/8530028) <br>
+- **A Stabilizing Controller for Regulation of UAV With Manipulator**  <br>
+[RA-L] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
 
 ## 2017
 
-- **Robust nonlinear control approach to nontrivial maneuvers and obstacle avoidance for quadrotor UAV under disturbances**  <br>
-[IAS] ()  　Elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.robot.2017.08.011) <br>
+- **Detection, Location and Grasping Objects Using a Stereo Sensor on UAV in Outdoor Environments**  <br>
+[UAV-Based Remote Sensing] ()  　MDPI  <br> 
+[PDF](https://doi.org/10.3390/s17010103) <br>
 
 
-- **Nonlinear Control with Swing Damping of a Multirotor UAV with Suspended Load**  <br>
-[JINT] ()  　Springer  <br> 
-[PDF](https://link.springer.com/article/10.1007/s10846-017-0509-6) <br>
+- **Lightweight and human-size dual arm aerial manipulator**  <br>
+[ICUAS] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/ICUAS.2017.7991357) <br>
 
 
 - **Dual Quaternion Modeling and Control of a Quad-rotor Aerial Manipulator**  <br>
@@ -342,9 +342,9 @@ Here we collect papers for RM4UAV.
 
 ## 2016
 
-- **Compliant Aerial Manipulators: Toward a New Generation of Aerial Robotic Workers**  <br>
-[RA-L] ()  　IEEE  <br> 
-[PDF](https://doi.org/10.1109/LRA.2016.2519948) <br>
+- **Modeling and control aspects of a UAV with an attached manipulator**  <br>
+[MED] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/MED.2016.7535922) <br>
 
 
 - **Enhancing UML Class Diagram Abstraction with Knowledge Graph**  <br>
@@ -368,25 +368,25 @@ Here we collect papers for RM4UAV.
 
 
 ## 2015
-- **System Design of a Novel Tilt-Roll Rotor Quadrotor UAV**  <br>
-[JINT] ()  Springer  <br> 
-[PDF](https://link.springer.com/article/10.1007/s10846-015-0301-4) <br>
+- **A multilayer control for multirotor UAVs equipped with a servo robot arm**  <br>
+[ICRA] ()  IEEE  <br> 
+[PDF](https://doi.org/10.1109/ICRA.2015.7139760) <br>
 
 
 ## 2014
 
 
-- **Formal Modeling of Airborne Software High-Level Requirements Based on Knowledge Graph**  <br>
-[KSEM] (ccf-c)  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-319-12096-6_23) <br>
+- **Adaptive control for UAVs equipped with a robotic arm**  <br>
+[IFAC-PO] ()  　Elsevier  <br> 
+[PDF](https://doi.org/10.3182/20140824-6-ZA-1003.00790) <br>
 
 
 
 ## 2013
 
-- **An Open-Source Hardware/Software Architecture for Quadrotor UAVs**  <br>
-[IFAC-PO] ()  　Elsevier  <br> 
-[PDF](https://doi.org/10.3182/20131120-3-FR-4045.00006) <br>
+- **Control of quadrotor aerial vehicles equipped with a robotic arm**  <br>
+[MED] ()  　IEEE  <br> 
+[PDF](https://doi.org/10.1109/MED.2013.6608869) <br>
 
 
 - **Design and Control of a Hyper-Redundant Manipulator for Mobile Manipulating Unmanned Aerial Vehicles**  <br>
