@@ -33,6 +33,10 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.3390/drones7030168) <br>
 
 
+- **基于积分滑模的带机械臂无人机控制方法研究**  <br>  
+[电子测量技术] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50lj1HsqJzB9QKd5UUfJAX7E1zHDD3JDeq4M5MmCqyQlk1mkVaNdeu8C&uniplatform=NZKPT) <br>
+
 
 
 ## 2022
@@ -66,6 +70,18 @@ Here we collect papers for RM4UAV.
 [IETC] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/IETC54973.2022.9796899) <br>
 
+- **基于人工智能技术的无人机机械臂自动控制系统**  <br> 
+[机械设计与制造工程] ()  CNKI　  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xb-axCjV_d-8A-lXbLwT3IHI86a6EixxvYsvsABha2xM&uniplatform=NZKPT) <br>
+
+
+- **基于专家PID的带臂四旋翼无人机控制方法**  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xf6SCfq7aNG1Qaw0f0eUG09WX_4BvAv09tTvVTkvlrvp&uniplatform=NZKPT) <br>
+
+
+- **带机械臂的旋翼无人飞行系统实验平台设计与实现**  <br> 
+[现代电子技术] ()  CNKI　  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xdgxc6opGIEgUd_IAkIkH3Yp09aYnXHxJtZs8IaTxokp&uniplatform=NZKPT) <br>
 
 ## 2021
 
@@ -104,6 +120,14 @@ Here we collect papers for RM4UAV.
 [PDF](https://link.springer.com/article/10.1007/s10846-021-01450-x) <br>
 
 
+- **带机械臂四旋翼飞行器的控制方法研究**  <br> 
+[机械设计与制造] ()  CNKI　  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHegsaHQfuRtIlTriybTNMk_oL58ph_6dJH1hU8ImSFwl&uniplatform=NZKPT) <br>
+
+ **基于机械臂的35kV交流输电线路直线塔无人机检修作业系统设计**  <br> 
+[组合机床与自动化加工技术] ()  CNKI　  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHa3WqlA5hIv9o9d0sLZEYYyGJE-2IsjChuf-JXicWZzJ&uniplatform=NZKPT) <br>
+
 
 ## 2020
 
@@ -141,6 +165,16 @@ Here we collect papers for RM4UAV.
 - **Optimization and Design of a Gripper Mechanism for Autonomous Unmanned Aerial Vehicle Perching**  <br>
  [USCToMM Symposium on Mechanical Systems and Robotics] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-43929-3_15) <br>
+
+
+- **多旋翼无人机遥操机械臂多功能仿真实验平台的设计与实现**  <br> 
+[上海交通大学学报] ()  CNKI　  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoqgIWqiAMRp9f-mFse6HP4SZV4rMAiqu3wWNTaM5Gtm7&uniplatform=NZKPT) <br>
+
+
+- **带单关节机械臂四旋翼无人机的建模与控制**  <br> 
+[计算机仿真] ()  CNKI　  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXommenCUN84_yW0vIZbnkh-mNtNK9x7Y54efMZljWUbkp&uniplatform=NZKPT) <br>
 
 
 ## 2019
