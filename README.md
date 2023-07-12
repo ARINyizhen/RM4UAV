@@ -295,11 +295,6 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
-- **A Stabilizing Controller for Regulation of UAV With Manipulator**  <br>
-[RA-L] ()  　IEEE  <br> 
-[PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
-
-
 - **Design of Aerial Manipulator Suitable for a UAV with Two Passive Rotating Hemispherical Shells**  <br>
 [SSRR] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/SSRR.2018.8468654) <br>
