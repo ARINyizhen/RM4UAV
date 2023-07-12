@@ -23,14 +23,14 @@ Here we collect papers for RM4UAV.
 
 ## 2022
 
-- **Creating Virtual Knowledge Graphs from Software-Internal Data**  <br>
-[IES] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9969051) <br>
+- **An onboard-eye-to-hand visual servo and task coordination control for aerial manipulator based on a spherical model**  <br>
+[Mechatronics] ()  　Elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.mechatronics.2021.102724) <br>
 
 
-- **Towards An Efficient Searching Approach of ROS Message by Knowledge Graph**  <br>
-[COMPSAC] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9842690) <br>
+- **Contact Force-Velocity Control for a Planar Aerial Manipulator**  <br>
+[IFAC-PO] ()  　Elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.ifacol.2022.04.001) <br>
 
 
 - **Incremental Analysis of Legacy Applications Using Knowledge Graphs for Application Modernization**  <br>
@@ -276,9 +276,9 @@ Here we collect papers for RM4UAV.
 
 ## 2018
 
-- **A Mission Coordinator Approach for a Fleet of UAVs in Urban Scenarios**  <br>
-[INAIR] ()  　Elsevier  <br> 
-[PDF](https://doi.org/10.1016/j.trpro.2018.12.018) <br>
+- **Robust Control of an Aerial Manipulator Interacting with the Environment**  <br>
+[IFAC-PO] ()  　Elsevier  <br> 
+[PDF](https://doi.org/10.1016/j.ifacol.2018.07.335) <br>
 
 
 - **Force control design for a robot manipulator attached to a UAV**  <br>
