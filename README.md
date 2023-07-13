@@ -29,7 +29,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Modeling and Simulation of an Octorotor UAV with Manipulator Arm**  <br>
-[Drones] ()  MDPI　  <br> 
+[Drones] (JCR-Q2)  MDPI　  <br> 
 [PDF](https://doi.org/10.3390/drones7030168) <br>
 
 
@@ -169,7 +169,7 @@ Here we collect papers for RM4UAV.
 
 
 - **带单关节机械臂四旋翼无人机的建模与控制**  <br> 
-[计算机仿真] ()  CNKI　  <br> 
+[计算机仿真] (CCF-C)  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXommenCUN84_yW0vIZbnkh-mNtNK9x7Y54efMZljWUbkp&uniplatform=NZKPT) <br>
 
 
@@ -181,7 +181,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Modeling and Control of a UAV Manipulator**  <br>
-[ICC] ()　IEEE  <br> 
+[ICC] (CCF-C)　IEEE  <br> 
 [PDF](https://doi.org/10.1109/INDIANCC.2019.8715556) <br>
 
 
@@ -269,13 +269,13 @@ Here we collect papers for RM4UAV.
 
 
 - **Mechatronic design of a robotic manipulator for Unmanned Aerial Vehicles**  <br>
-[IROS] ()  　IEEE  <br> 
+[IROS] (CCF-C)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/IROS.2016.7759711) <br>
 
 
 ## 2015
 - **A multilayer control for multirotor UAVs equipped with a servo robot arm**  <br>
-[ICRA] ()  IEEE  <br> 
+[ICRA] (CCF-B)  IEEE  <br> 
 [PDF](https://doi.org/10.1109/ICRA.2015.7139760) <br>
 
 - **A parallel manipulator for mobile manipulating UAVs**  <br>
@@ -315,7 +315,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Interaction control of an UAV endowed with a manipulator**  <br>
-[ICRA] ()  　IEEE  <br> 
+[ICRA] (CCF-B)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/ICRA.2013.6631278) <br>
 
 
