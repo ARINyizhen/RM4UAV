@@ -71,7 +71,7 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/IETC54973.2022.9796899) <br>
 
 - **基于人工智能技术的无人机机械臂自动控制系统**  <br> 
-[机械设计与制造工程] ()  CNKI　  <br> 
+ [机械设计与制造工程] ()  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xb-axCjV_d-8A-lXbLwT3IHI86a6EixxvYsvsABha2xM&uniplatform=NZKPT) <br>
 
 
@@ -229,7 +229,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Design and Optimization of a Multi-drone Robot for Grasping and Manipulation of Large Size Objects**  <br>
-  [ROMANSY 22 – Robot Design, Dynamics and Control] ()  　Springer  <br> 
+  [ROMANSY ] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-78963-7_57) <br>
 
 
