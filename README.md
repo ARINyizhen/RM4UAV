@@ -9,7 +9,7 @@ Here we collect papers for RM4UAV.
 
 
 - **A deep multi-agent reinforcement learning framework for autonomous aerial navigation to grasping points on loads**  <br>
-[IAS] ()  Elsevier　  <br> 
+[IAS] (JCR-Q2)  Elsevier　  <br> 
 [PDF](https://doi.org/10.1016/j.robot.2023.104489) <br>
 
 
@@ -52,7 +52,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Gliding grasping analysis and hybrid force/position control for unmanned aerial manipulator system**  <br>
-[ISA] ()  　Elsevier <br> 
+[ISA] (JCR-Q2)  　Elsevier <br> 
 [PDF](https://doi.org/10.1016/j.isatra.2021.07.038) <br>
 
 
@@ -75,7 +75,8 @@ Here we collect papers for RM4UAV.
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xb-axCjV_d-8A-lXbLwT3IHI86a6EixxvYsvsABha2xM&uniplatform=NZKPT) <br>
 
 
-- **基于专家PID的带臂四旋翼无人机控制方法**  <br> 
+- **基于专家PID的带臂四旋翼无人机控制方法**  <br>
+- []  ()     CNKI   <br>
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xf6SCfq7aNG1Qaw0f0eUG09WX_4BvAv09tTvVTkvlrvp&uniplatform=NZKPT) <br>
 
 
@@ -91,22 +92,22 @@ Here we collect papers for RM4UAV.
 
 
 - **Emulating UAV Motion by Utilizing Robotic Arm for mmWave Wireless Channel Characterization**  <br>
-[RA-L] ()  　IEEE  <br> 
+[RA-L] (JCR-Q2)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/TAP.2021.3069484) <br>
 
 
 - **Modeling and Control of a Quadrotor UAV Equipped With a Flexible Arm in Vertical Plane**  <br>
-[ IEEE Access] ()  　IEEE  <br> 
+[ IEEE Access] (JCR-Q2)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/ACCESS.2021.3095536) <br>
 
 
 - **Design and Feasibility Analysis of a Foldable Robot Arm for Drones Using a Twisted String Actuator: FRAD-TSA**  <br>
-[RA-L] ()  　IEEE  <br> 
+[RA-L] (JCR-Q2)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/LRA.2021.3084890) <br>
 
 
 - **Mobile Manipulator for Autonomous Localization, Grasping and Precise Placement of Construction Material in a Semi-Structured Environment**  <br>
-[RA-L] ()  　IEEE <br> 
+[RA-L] (JCR-Q2)  　IEEE <br> 
 [PDF](https://doi.org/10.1109/LRA.2021.3061377) <br>
 
 
@@ -116,7 +117,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Robust Adaptive Control for A Novel Fully-Actuated Octocopter UAV with Wind Disturbance**  <br>
-[JINT] ()  　Springer  <br> 
+[JINT] (JCR-Q3)  　Springer  <br> 
 [PDF](https://link.springer.com/article/10.1007/s10846-021-01450-x) <br>
 
 
@@ -143,7 +144,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Controlling of an Under-Actuated Quadrotor UAV Equipped With a Manipulator**  <br>
-[ IEEE Access] ()  　IEEE  <br> 
+[ IEEE Access] (JCR-Q2)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/ACCESS.2020.2974581) <br>
 
 
@@ -190,7 +191,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Autonomous Vision-Based Aerial Grasping for Rotorcraft Unmanned Aerial Vehicles**  <br>
-[Sensors] ()  　MDPI  <br> 
+[Sensors] (JCR-Q2)  　MDPI  <br> 
 [PDF](https://doi.org/10.3390/s19153410) <br>
 
 
@@ -208,7 +209,7 @@ Here we collect papers for RM4UAV.
 
 
 - **A Stabilizing Controller for Regulation of UAV With Manipulator**  <br>
-[RA-L] ()  　IEEE  <br> 
+[RA-L] (JCR-Q2)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
@@ -223,7 +224,7 @@ Here we collect papers for RM4UAV.
 
 
 - **A Stabilizing Controller for Regulation of UAV With Manipulator**  <br>
-[RA-L] ()  　IEEE  <br> 
+[RA-L] (JCR-Q2)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
@@ -240,7 +241,7 @@ Here we collect papers for RM4UAV.
 ## 2017
 
 - **Detection, Location and Grasping Objects Using a Stereo Sensor on UAV in Outdoor Environments**  <br>
-[UAV-Based Remote Sensing] ()  　MDPI  <br> 
+[UAV-Based Remote Sensing] (JCR-Q2)  　MDPI  <br> 
 [PDF](https://doi.org/10.3390/s17010103) <br>
 
 
@@ -314,7 +315,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Design and Control of a Hyper-Redundant Manipulator for Mobile Manipulating Unmanned Aerial Vehicles**  <br>
-[JINT] ()  　Springer  <br> 
+[JINT] (JCR-Q3)  　Springer  <br> 
 [PDF](https://link.springer.com/article/10.1007/s10846-013-9935-2) <br>
 
 
