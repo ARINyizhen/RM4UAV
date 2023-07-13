@@ -289,7 +289,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Redundancy resolution and control of a nonholonomic mobile manipulator using Kinect mounted on UAV**  <br>
-[AIR '15: Proceedings of the 2015 Conference on Advances In Robotics] ()  ACM  <br> 
+[AIR '15] ()  ACM  <br> 
 [PDF](https://dl.acm.org/doi/10.1145/2783449.2783470) <br>
 
 
