@@ -9,7 +9,7 @@ Here we collect papers for RM4UAV.
 
 
 - **A deep multi-agent reinforcement learning framework for autonomous aerial navigation to grasping points on loads**  <br>
-[IAS] ()  Elsevier　  <br> 
+[IAS] (JCR-Q2)  Elsevier　  <br> 
 [PDF](https://doi.org/10.1016/j.robot.2023.104489) <br>
 
 
@@ -52,7 +52,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Gliding grasping analysis and hybrid force/position control for unmanned aerial manipulator system**  <br>
-[ISA] (JCR-Q2)  　Elsevier <br> 
+[ISA] ()  　Elsevier <br> 
 [PDF](https://doi.org/10.1016/j.isatra.2021.07.038) <br>
 
 
