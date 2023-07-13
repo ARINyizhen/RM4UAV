@@ -144,12 +144,12 @@ Here we collect papers for RM4UAV.
 
 
 - **Mathematical Modeling of Stable Position of Manipulator Mounted on Unmanned Aerial Vehicle**  <br>
-[Proceedings of 15th International Conference on Electromechanics and Robotics "Zavalishin's Readings"] ()  　Springer  <br> 
+[ER(ZR) 2020] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-981-15-5580-0_12) <br>
 
 
 - **Construction and Control Aerial Manipulator Robot**  <br>
-[International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems] ()  　Springer  <br> 
+[IEA-AIE 2021] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-55789-8_11) <br>
 
 
