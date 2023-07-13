@@ -76,7 +76,7 @@ Here we collect papers for RM4UAV.
 
 
 - **基于专家PID的带臂四旋翼无人机控制方法**  <br>
-- [计算机应用]  (CCF-A)     CNKI   <br>
+[计算机应用]  (CCF-A)     CNKI   <br>
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xf6SCfq7aNG1Qaw0f0eUG09WX_4BvAv09tTvVTkvlrvp&uniplatform=NZKPT) <br>
 
 
