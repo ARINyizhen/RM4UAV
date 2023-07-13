@@ -154,12 +154,12 @@ Here we collect papers for RM4UAV.
 
 
 - **Design of an Active-Reliable Grasping Mechanism for Autonomous Unmanned Aerial Vehicles**  <br>
-[International Conference on Modelling and Simulation for Autonomous Systems] ()  　Springer  <br> 
+[MESAS 2019] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-43890-6_13) <br>
 
 
 - **Optimization and Design of a Gripper Mechanism for Autonomous Unmanned Aerial Vehicle Perching**  <br>
- [USCToMM Symposium on Mechanical Systems and Robotics] ()  　Springer  <br> 
+ [USCToMM ] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-43929-3_15) <br>
 
 
