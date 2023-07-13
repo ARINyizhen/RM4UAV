@@ -116,11 +116,6 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1109/IRCE53649.2021.9570974) <br>
 
 
-- **Robust Adaptive Control for A Novel Fully-Actuated Octocopter UAV with Wind Disturbance**  <br>
-[JINT] (JCR-Q3)  　Springer  <br> 
-[PDF](https://link.springer.com/article/10.1007/s10846-021-01450-x) <br>
-
-
 - **带机械臂四旋翼飞行器的控制方法研究**  <br> 
 [机械设计与制造] ()  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHegsaHQfuRtIlTriybTNMk_oL58ph_6dJH1hU8ImSFwl&uniplatform=NZKPT) <br>
