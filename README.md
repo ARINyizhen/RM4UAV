@@ -56,7 +56,7 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.isatra.2021.07.038) <br>
 
 
--**Development of an Autonomous UAV Integrated with a Manipulator and a Soft Gripper**  <br>
+- **Development of an Autonomous UAV Integrated with a Manipulator and a Soft Gripper**  <br>
 [ASCC] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.23919/ASCC56756.2022.9828332) <br>
 
@@ -120,7 +120,7 @@ Here we collect papers for RM4UAV.
 [机械设计与制造] (北大核心)  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHegsaHQfuRtIlTriybTNMk_oL58ph_6dJH1hU8ImSFwl&uniplatform=NZKPT) <br>
 
- **基于机械臂的35kV交流输电线路直线塔无人机检修作业系统设计**  <br> 
+ - **基于机械臂的35kV交流输电线路直线塔无人机检修作业系统设计**  <br> 
 [组合机床与自动化加工技术] (北大核心)  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHa3WqlA5hIv9o9d0sLZEYYyGJE-2IsjChuf-JXicWZzJ&uniplatform=NZKPT) <br>
 
