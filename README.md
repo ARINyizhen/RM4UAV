@@ -9,7 +9,7 @@ Here we collect papers for RM4UAV.
 
 
 - **A deep multi-agent reinforcement learning framework for autonomous aerial navigation to grasping points on loads**  <br>
-[IAS] (JCR-Q2)  Elsevier　  <br> 
+[IAS] ()  Elsevier　  <br> 
 [PDF](https://doi.org/10.1016/j.robot.2023.104489) <br>
 
 
