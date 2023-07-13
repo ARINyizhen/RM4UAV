@@ -56,7 +56,7 @@ Here we collect papers for RM4UAV.
 [PDF](https://doi.org/10.1016/j.isatra.2021.07.038) <br>
 
 
-- Development of an Autonomous UAV Integrated with a Manipulator and a Soft Gripper**  <br>
+-**Development of an Autonomous UAV Integrated with a Manipulator and a Soft Gripper**  <br>
 [ASCC] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.23919/ASCC56756.2022.9828332) <br>
 
@@ -97,7 +97,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Modeling and Control of a Quadrotor UAV Equipped With a Flexible Arm in Vertical Plane**  <br>
-[ IEEE Access] (JCR-Q2)  　IEEE  <br> 
+  [IEEE Access] (JCR-Q2)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/ACCESS.2021.3095536) <br>
 
 
@@ -247,7 +247,7 @@ Here we collect papers for RM4UAV.
 
 - **Teleoperation of a UAV by a 6-DOF parallel manipulator with hybrid mapping for inspection of industrial structures**  <br>
 [ICCAS] ()  　IEEE  <br> 
-[PDF(https://doi.org/10.23919/ICCAS.2017.8204350) <br>
+[PDF](https://doi.org/10.23919/ICCAS.2017.8204350) <br>
 
 
 - **Stable under-actuated manipulator design for mobile manipulating Unmanned Aerial Vehicle (MM-UAV)**  <br>
