@@ -42,7 +42,7 @@ Here we collect papers for RM4UAV.
 ## 2022
 
 - **An onboard-eye-to-hand visual servo and task coordination control for aerial manipulator based on a spherical model**  <br>
-[Mechatronics] ()  　Elsevier  <br> 
+[Mechatronics] (JCR-Q2)  　Elsevier  <br> 
 [PDF](https://doi.org/10.1016/j.mechatronics.2021.102724) <br>
 
 
@@ -92,7 +92,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Emulating UAV Motion by Utilizing Robotic Arm for mmWave Wireless Channel Characterization**  <br>
-[RA-L] (JCR-Q2)  　IEEE  <br> 
+[RA-L] (JCR-Q1)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/TAP.2021.3069484) <br>
 
 
@@ -102,12 +102,12 @@ Here we collect papers for RM4UAV.
 
 
 - **Design and Feasibility Analysis of a Foldable Robot Arm for Drones Using a Twisted String Actuator: FRAD-TSA**  <br>
-[RA-L] (JCR-Q2)  　IEEE  <br> 
+[RA-L] (JCR-Q1)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/LRA.2021.3084890) <br>
 
 
 - **Mobile Manipulator for Autonomous Localization, Grasping and Precise Placement of Construction Material in a Semi-Structured Environment**  <br>
-[RA-L] (JCR-Q2)  　IEEE <br> 
+[RA-L] (JCR-Q1)  　IEEE <br> 
 [PDF](https://doi.org/10.1109/LRA.2021.3061377) <br>
 
 
@@ -126,14 +126,14 @@ Here we collect papers for RM4UAV.
 
 
 - **A novel aerial manipulator system compensation control based on ADRC and backstepping**  <br>
-[Scientific Reports] ()  　Nature  <br> 
+[Scientific Reports] (JCR-Q1)  　Nature  <br> 
 [PDF](https://www.nature.com/articles/s41598-021-01628-1) <br>
 
 ## 2020
 
 
 - **Grasp Planning and Visual Servoing for an Outdoors Aerial Dual Manipulator**  <br>
-[Engineering] ()  　Elsevier <br> 
+[Engineering] (JCR-Q1)  　Elsevier <br> 
 [PDF](https://doi.org/10.1016/j.eng.2019.11.003) <br>
 
 
@@ -185,12 +185,12 @@ Here we collect papers for RM4UAV.
 
 
 - **Modeling and Control of a UAV Manipulator**  <br>
-[ICC] (CCF-C)　IEEE  <br> 
+[ICC] ()　IEEE  <br> 
 [PDF](https://doi.org/10.1109/INDIANCC.2019.8715556) <br>
 
 
 - **Autonomous Vision-Based Aerial Grasping for Rotorcraft Unmanned Aerial Vehicles**  <br>
-[Sensors] (JCR-Q2)  　MDPI  <br> 
+[Sensors] (JCR-Q1)  　MDPI  <br> 
 [PDF](https://doi.org/10.3390/s19153410) <br>
 
 
@@ -208,7 +208,7 @@ Here we collect papers for RM4UAV.
 
 
 - **A Stabilizing Controller for Regulation of UAV With Manipulator**  <br>
-[RA-L] (JCR-Q2)  　IEEE  <br> 
+[RA-L] (JCR-Q1)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
@@ -223,7 +223,7 @@ Here we collect papers for RM4UAV.
 
 
 - **A Stabilizing Controller for Regulation of UAV With Manipulator**  <br>
-[RA-L] (JCR-Q2)  　IEEE  <br> 
+[RA-L] (JCR-Q1)  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/LRA.2018.2803205) <br>
 
 
@@ -238,13 +238,13 @@ Here we collect papers for RM4UAV.
 
 
 - **An origami-inspired, self-locking robotic arm that can be folded flat**  <br>
-  [SCIENCE ROBOTICS] ()  　Science  <br> 
+  [SCIENCE ROBOTICS] (JCR-Q1)  　Science  <br> 
 [PDF](https://doi.org/10.1126/scirobotics.aar2915) <br>
 
 ## 2017
 
 - **Detection, Location and Grasping Objects Using a Stereo Sensor on UAV in Outdoor Environments**  <br>
-[UAV-Based Remote Sensing] (JCR-Q2)  　MDPI  <br> 
+[Sensors] (JCR-Q1)  　MDPI  <br> 
 [PDF](https://doi.org/10.3390/s17010103) <br>
 
 
@@ -318,7 +318,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Design and Control of a Hyper-Redundant Manipulator for Mobile Manipulating Unmanned Aerial Vehicles**  <br>
-[JINT] (JCR-Q3)  　Springer  <br> 
+[JINT] (JCR-Q2)  　Springer  <br> 
 [PDF](https://link.springer.com/article/10.1007/s10846-013-9935-2) <br>
 
 
