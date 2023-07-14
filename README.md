@@ -52,7 +52,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Gliding grasping analysis and hybrid force/position control for unmanned aerial manipulator system**  <br>
-[ISA] ()  　Elsevier <br> 
+[ISA] (JCR-Q1)  　Elsevier <br> 
 [PDF](https://doi.org/10.1016/j.isatra.2021.07.038) <br>
 
 
