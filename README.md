@@ -34,7 +34,7 @@ Here we collect papers for RM4UAV.
 
 
 - **基于积分滑模的带机械臂无人机控制方法研究**  <br>  
-[电子测量技术] (北大核心)  　CNKI  <br> 
+[电子测量技术] ()  　CNKI  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50lj1HsqJzB9QKd5UUfJAX7E1zHDD3JDeq4M5MmCqyQlk1mkVaNdeu8C&uniplatform=NZKPT) <br>
 
 
@@ -173,7 +173,7 @@ Here we collect papers for RM4UAV.
 
 
 - **带单关节机械臂四旋翼无人机的建模与控制**  <br> 
-[计算机仿真] (CCF-C)  CNKI　  <br> 
+[计算机仿真] ()  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXommenCUN84_yW0vIZbnkh-mNtNK9x7Y54efMZljWUbkp&uniplatform=NZKPT) <br>
 
 
