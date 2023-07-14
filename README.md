@@ -24,7 +24,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Pre-production Design of a Robotic Arm Mounted on an Unmanned Aerial Vehicle (UAV)**  <br>
-[International Conference on Computing, Intelligence and Data Analytics] ()  Springer　  <br> 
+[ICCIDA] ()  Springer　  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-27099-4_6) <br>
 
 
