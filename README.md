@@ -125,6 +125,10 @@ Here we collect papers for RM4UAV.
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHa3WqlA5hIv9o9d0sLZEYYyGJE-2IsjChuf-JXicWZzJ&uniplatform=NZKPT) <br>
 
 
+- **A novel aerial manipulator system compensation control based on ADRC and backstepping**  <br>
+[Scientific Reports] ()  　Nature  <br> 
+[PDF](https://www.nature.com/articles/s41598-021-01628-1) <br>
+
 ## 2020
 
 
@@ -232,6 +236,10 @@ Here we collect papers for RM4UAV.
   [ROMANSY ] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-78963-7_57) <br>
 
+
+- **An origami-inspired, self-locking robotic arm that can be folded flat**  <br>
+  [SCIENCE ROBOTICS] ()  　Science  <br> 
+[PDF](https://doi.org/10.1126/scirobotics.aar2915) <br>
 
 ## 2017
 
