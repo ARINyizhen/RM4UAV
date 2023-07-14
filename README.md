@@ -76,7 +76,7 @@ Here we collect papers for RM4UAV.
 
 
 - **基于专家PID的带臂四旋翼无人机控制方法**  <br>
-[计算机应用]  (CCF-A)     CNKI   <br>
+[计算机应用]  ()     CNKI   <br>
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xf6SCfq7aNG1Qaw0f0eUG09WX_4BvAv09tTvVTkvlrvp&uniplatform=NZKPT) <br>
 
 
@@ -117,11 +117,11 @@ Here we collect papers for RM4UAV.
 
 
 - **带机械臂四旋翼飞行器的控制方法研究**  <br> 
-[机械设计与制造] (北大核心)  CNKI　  <br> 
+[机械设计与制造] ()  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHegsaHQfuRtIlTriybTNMk_oL58ph_6dJH1hU8ImSFwl&uniplatform=NZKPT) <br>
 
  - **基于机械臂的35kV交流输电线路直线塔无人机检修作业系统设计**  <br> 
-[组合机床与自动化加工技术] (北大核心)  CNKI　  <br> 
+[组合机床与自动化加工技术] ()  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iy_Rpms2pqwbFRRUtoUImHa3WqlA5hIv9o9d0sLZEYYyGJE-2IsjChuf-JXicWZzJ&uniplatform=NZKPT) <br>
 
 
@@ -168,7 +168,7 @@ Here we collect papers for RM4UAV.
 
 
 - **多旋翼无人机遥操机械臂多功能仿真实验平台的设计与实现**  <br> 
-[上海交通大学学报] (北大核心)  CNKI　  <br> 
+[上海交通大学学报] ()  CNKI　  <br> 
 [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoqgIWqiAMRp9f-mFse6HP4SZV4rMAiqu3wWNTaM5Gtm7&uniplatform=NZKPT) <br>
 
 
@@ -277,13 +277,13 @@ Here we collect papers for RM4UAV.
 
 
 - **Mechatronic design of a robotic manipulator for Unmanned Aerial Vehicles**  <br>
-[IROS] (CCF-C)  　IEEE  <br> 
+[IROS] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/IROS.2016.7759711) <br>
 
 
 ## 2015
 - **A multilayer control for multirotor UAVs equipped with a servo robot arm**  <br>
-[ICRA] (CCF-B)  IEEE  <br> 
+[ICRA] ()  IEEE  <br> 
 [PDF](https://doi.org/10.1109/ICRA.2015.7139760) <br>
 
 - **A parallel manipulator for mobile manipulating UAVs**  <br>
@@ -323,7 +323,7 @@ Here we collect papers for RM4UAV.
 
 
 - **Interaction control of an UAV endowed with a manipulator**  <br>
-[ICRA] (CCF-B)  　IEEE  <br> 
+[ICRA] ()  　IEEE  <br> 
 [PDF](https://doi.org/10.1109/ICRA.2013.6631278) <br>
 
 
